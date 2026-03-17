@@ -3,16 +3,16 @@ Homework 1 17.03.2026 TU WIEN
 
 # Homework1_OpenSourceEnergySystemModelling
 Homework 1 17.03.2026 TU WIEN
-![Badge](https://img.shields.io/badge/test_badge)
+
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
- # Apache License
+ ### Apache License
                          ##  Version 2.0, January 2004
                      ##   http://www.apache.org/licenses/
 
-   # TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+   ### TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-  ## 1. Definitions.
+   1. Definitions.
 
       "License" shall mean the terms and conditions for use, reproduction,
       and distribution as defined by Sections 1 through 9 of this document.
@@ -71,7 +71,7 @@ Homework 1 17.03.2026 TU WIEN
       on behalf of whom a Contribution has been received by Licensor and
       subsequently incorporated within the Work.
 
-  ## 2. Grant of Copyright License. 
+   2. Grant of Copyright License. 
       Subject to the terms and conditions of
       this License, each Contributor hereby grants to You a perpetual,
       worldwide, non-exclusive, no-charge, royalty-free, irrevocable
@@ -79,7 +79,7 @@ Homework 1 17.03.2026 TU WIEN
       publicly display, publicly perform, sublicense, and distribute the
       Work and such Derivative Works in Source or Object form.
 
- ##  3. Grant of Patent License. 
+  3. Grant of Patent License. 
         Subject to the terms and conditions of
       this License, each Contributor hereby grants to You a perpetual,
       worldwide, non-exclusive, no-charge, royalty-free, irrevocable
@@ -96,7 +96,7 @@ Homework 1 17.03.2026 TU WIEN
       granted to You under this License for that Work shall terminate
       as of the date such litigation is filed.
 
- ##  4. Redistribution.
+  4. Redistribution.
      You may reproduce and distribute copies of the
       Work or Derivative Works thereof in any medium, with or without
       modifications, and in Source or Object form, provided that You
@@ -138,7 +138,7 @@ Homework 1 17.03.2026 TU WIEN
       reproduction, and distribution of the Work otherwise complies with
       the conditions stated in this License.
 
-  ## 5. Submission of Contributions. 
+  5. Submission of Contributions. 
         Unless You explicitly state otherwise,
       any Contribution intentionally submitted for inclusion in the Work
       by You to the Licensor shall be under the terms and conditions of
@@ -147,13 +147,13 @@ Homework 1 17.03.2026 TU WIEN
       the terms of any separate license agreement you may have executed
       with Licensor regarding such Contributions.
 
-  ## 6. Trademarks. 
+  6. Trademarks. 
         This License does not grant permission to use the trade
       names, trademarks, service marks, or product names of the Licensor,
       except as required for reasonable and customary use in describing the
       origin of the Work and reproducing the content of the NOTICE file.
 
-   ## 7. Disclaimer of Warranty. 
+   7. Disclaimer of Warranty. 
         Unless required by applicable law or
       agreed to in writing, Licensor provides the Work (and each
       Contributor provides its Contributions) on an "AS IS" BASIS,
@@ -164,7 +164,7 @@ Homework 1 17.03.2026 TU WIEN
       appropriateness of using or redistributing the Work and assume any
       risks associated with Your exercise of permissions under this License.
 
- ##  8. Limitation of Liability. 
+  8. Limitation of Liability. 
         In no event and under no legal theory,
       whether in tort (including negligence), contract, or otherwise,
       unless required by applicable law (such as deliberate and grossly
@@ -177,7 +177,7 @@ Homework 1 17.03.2026 TU WIEN
       other commercial damages or losses), even if such Contributor
       has been advised of the possibility of such damages.
 
- ##  9. Accepting Warranty or Additional Liability.
+  9. Accepting Warranty or Additional Liability.
          While redistributing
       the Work or Derivative Works thereof, You may choose to offer,
       and charge a fee for, acceptance of support, warranty, indemnity,
