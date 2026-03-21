@@ -37,3 +37,4 @@ def test_discounted_fee_is_lower():
     normal = current_grid_fee(2, 12)
     discounted = current_grid_fee(6, 12)
     assert discounted < normal
+    
