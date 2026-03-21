@@ -1,7 +1,7 @@
 import pytest
 from el_price_calculator import current_grid_fee, NETZENTGELT
 
-#testing funcs
+#testing functions, have fixed expected return value and hardcoded arguments
 
 def test_standard_fee_outside_snap_month():
     assert current_grid_fee(1, 12) == pytest.approx(NETZENTGELT["Kärnten"])
