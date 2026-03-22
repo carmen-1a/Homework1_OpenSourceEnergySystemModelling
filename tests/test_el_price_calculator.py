@@ -1,5 +1,5 @@
 import pytest
-from el_price_calculator import current_grid_fee, NETZENTGELT
+from el_price_calculator import current_grid_fee, get_valid_number, NETZENTGELT
 
 #testing functions, have fixed expected return value and hardcoded arguments
 
@@ -36,3 +36,7 @@ def test_discounted_fee_is_lower():
     discounted = current_grid_fee(6, 12)
     assert discounted < normal
 
+def test_get_valid_number_rejects_invalid_then_accepts(monkeypatch):
+    inputs = iter(["15", "7"])
+    monkeypatch.setattr("builtins.input", lambda _: next(inputs))
+    assert get_valid_number("Enter month: ", 1, 12) == 7
