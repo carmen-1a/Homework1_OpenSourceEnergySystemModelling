@@ -30,5 +30,5 @@ After the input, the program prints:
 - whether the SNAP discount is active or not
 
 ### Information regarding the use of AI
-AI tools such as ChatGPT and Claude were used in this project mainly to simplify and then debug an existing codebase (the Electricity Price Calculator), to develop code for test.yml, and to develop code for the testing file (test_el_price_calculator.py). They were also used to research and better understand the pushing process and the setup in VS Code. 
+AI tools such as ChatGPT and Claude were used in this project mainly to simplify and then debug an existing codebase (the Electricity Price Calculator), to develop code for test.yml and ruff.yml, and to develop code for the testing file (test_el_price_calculator.py). They were also used to research and better understand the pushing process and the setup in VS Code. 
 The workflow was as follows: existing code and development problems were described to the AI tools, which then provided suggestions for code simplification, debugging, and file generation. These suggestions were reviewed, adapted where necessary, and then integrated into the project.
